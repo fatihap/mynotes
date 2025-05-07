@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548097209814",
+    "project_id": "fatih-mynotes",
+    "storage_bucket": "fatih-mynotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548097209814:android:9a5cccd2a3a945a5ee2077",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHVZ4TXNAqSpDnFN3wIU-HG5XXMzPYtEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
